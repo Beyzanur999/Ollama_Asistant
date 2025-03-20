@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nsQpNegncDk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bnura\\OneDrive\\Masaüstü\\AsistanOllama\\AsistanOllama\\AsistanOllama.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bnura\\.nuget\\packages\\csharptojsonschema\\3.10.1\\csharptojsonschema.3.10.1.nupkg.sha512",
+    "C:\\Users\\bnura\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\bnura\\.nuget\\packages\\ollama\\1.15.0\\ollama.1.15.0.nupkg.sha512",
+    "C:\\Users\\bnura\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
+    "C:\\Users\\bnura\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
+    "C:\\Users\\bnura\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
